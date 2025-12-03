@@ -53,7 +53,7 @@ All computations, embeddings, and LLM reasoning happen **locally**, ensuring pri
 
 ## Installation
 
-1. Clone the repository:
+### Clone the repository:
 
 Project structure:
 ```bash
@@ -71,6 +71,23 @@ personal-finance-ai-bot/
 ├─ requirements.txt
 └─ README.md
 ```
+## Ollama Installation & Local LLM Setup
+
+This app uses **Llama 3** via **Ollama** as a local LLM to interpret user queries and convert them into structured JSON commands.  
+
+---
+
+### 1. Install Ollama
+#### Windows:
+Download and run the installer from [Ollama Downloads](https://ollama.com/download).
+
+Pull the Llama model
+
+After installing Ollama, pull the Llama 3 model locally:
+```bash
+ollama pull llama3.1
+```
+
 ## Steps to Run & Example Queries
 
 ### 1. Install dependencies
