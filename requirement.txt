@@ -1,0 +1,6 @@
+pandas
+openpyxl
+faiss-cpu
+sentence-transformers
+flask
+ollama
