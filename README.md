@@ -3,11 +3,13 @@
 A local AI-powered natural-language transaction search engine built with FAISS, embeddings, and a local Llama model via Ollama—allowing you to analyze bank statements, extract insights, and query your finances securely without uploading any data anywhere. 
 
 ## Screenshots
+### 1. Bank Statement Example
+![Bank Statement](screenshots/bank.png)
 
-### 1. API Request Example
+### 2. API Request Example
 ![POST Request](screenshots/post.png)
 
-### 2. LLM Response Example
+### 3. LLM Response Example
 ![LLM Response](screenshots/response.png)
 
 ---
