@@ -1,6 +1,6 @@
 # Personal Finance AI Bot
 
-A local AI-powered assistant to analyze your bank statements and provide insights through natural language queries. This bot allows you to **query your financial data securely on your local machine** without uploading sensitive data to any website. Its all local and so complete private and safe.  
+A local AI-powered natural-language transaction search engine built with FAISS, embeddings, and a local Llama model via Ollama—allowing you to analyze bank statements, extract insights, and query your finances securely without uploading any data anywhere. 
 
 ## Screenshots
 
