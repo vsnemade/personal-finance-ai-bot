@@ -2,6 +2,14 @@
 
 A local AI-powered assistant to analyze your bank statements and provide insights through natural language queries. This bot allows you to **query your financial data securely on your local machine** without uploading sensitive data to any website. Its all local and so complete private and safe.  
 
+## Screenshots
+
+### 1. API Request Example
+![POST Request](screenshots/post.png)
+
+### 2. LLM Response Example
+![LLM Response](screenshots/response.png)
+
 ---
 
 ## Table of Contents
